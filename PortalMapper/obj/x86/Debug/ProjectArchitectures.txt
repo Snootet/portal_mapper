@@ -1,0 +1,1 @@
+C:\Users\eriks\Projekte\UWP\PortalMapper\PortalMapper\PortalMapper.csproj;x86
